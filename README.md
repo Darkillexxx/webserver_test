@@ -21,19 +21,6 @@ https://simpleweathersite.onrender.com
 - User profile pictures
 - Logout functionality
 
-## Project Structure
-- public/ - Static files  
-- dashboard-page-scripts/ - Dashboard logic  
-- login-page-scripts/ - Login logic  
-- profile-pictures/ - User profile images  
-- weather-pictures/ - Weather icons  
-- app.js - Main server file  
-- database.js - Simple user data storage  
-- landing-page.html - Main page  
-- login.html - Login page  
-- dashboard.html - User dashboard  
-- main.css - Main styles  
-
 ## Installation and Local Run
 
 1. Clone the repository:
