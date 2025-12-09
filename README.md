@@ -1,6 +1,6 @@
 # Weather Dashboard Web App
 
-This is a full-stack pet project for displaying real-time weather data with a simple user authentication system and a personal dashboard. The application allows users to log in, search for weather in different cities, and view forecasts using the OpenWeather API.
+Web application for displaying real-time weather data with a simple login system and user dashboard. Users can sign in, search for a city, and view current weather information using the OpenWeather API.
 
 ## Live Demo
 https://simpleweathersite.onrender.com
@@ -14,25 +14,25 @@ https://simpleweathersite.onrender.com
 
 ## Features
 - User authentication (login system)
-- Personal user dashboard
+- User dashboard
 - Real-time weather data
 - City search
-- Weather forecast display
-- Individual profile pictures for users
+- Weather forecast
+- User profile pictures
 - Logout functionality
 
 ## Project Structure
-- public/ – Static files  
-- dashboard-page-scripts/ – Dashboard logic  
-- login-page-scripts/ – Login logic  
-- profile-pictures/ – User profile images  
-- weather-pictures/ – Weather icons  
-- app.js – Main server file  
-- database.js – Simple user data storage  
-- landing-page.html – Main page  
-- login.html – Login page  
-- dashboard.html – User dashboard  
-- main.css – Main styles  
+- public/ - Static files  
+- dashboard-page-scripts/ - Dashboard logic  
+- login-page-scripts/ - Login logic  
+- profile-pictures/ - User profile images  
+- weather-pictures/ - Weather icons  
+- app.js - Main server file  
+- database.js - Simple user data storage  
+- landing-page.html - Main page  
+- login.html - Login page  
+- dashboard.html - User dashboard  
+- main.css - Main styles  
 
 ## Installation and Local Run
 
@@ -64,12 +64,11 @@ Password: lol
 
 ## Project Purpose
 
-This project was created as a learning project to practice:
-- Working with external APIs
-- Backend logic with Node.js
-- User authentication
-- Frontend and backend interaction
-- Basic project structure and deployment
+This project was built to gain practical experience with:
+- Working with external APIs  
+- Basic backend logic with Node.js  
+- User authentication  
+- Frontend and backend integration  
 
 ## Author
 
